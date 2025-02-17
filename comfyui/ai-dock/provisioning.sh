@@ -20,6 +20,7 @@ PIP_PACKAGES=(
     "onnxruntime-gpu"
     "insightface"
     "segment-anything"
+    "imageio_ffmpeg"
 )
 
 NODES=(

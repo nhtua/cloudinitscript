@@ -14,6 +14,8 @@ APT_PACKAGES=(
 )
 
 PIP_PACKAGES=(
+    "wheel"
+    "setuptools"
     "onnx"
     "onnxruntime-gpu"
     "insightface"

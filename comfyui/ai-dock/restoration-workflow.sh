@@ -6,7 +6,7 @@
 
 # Packages are installed after nodes so we can fix them...
 
-#DEFAULT_WORKFLOW="https://..."
+DEFAULT_WORKFLOW="https://raw.githubusercontent.com/nhtua/cloudinitscript/refs/heads/main/comfyui/ai-dock/workflow-old-photo-restoration-xl-refine-version.json"
 
 APT_PACKAGES=(
     #"package-1"
